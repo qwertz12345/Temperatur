@@ -5,6 +5,7 @@ import time
 #test1
 #test2
 #test3
+#ghfzug
 ser = serial.Serial()
 ser.baudrate = 9600
 ser.port = "/dev/ttyACM0" #linux
